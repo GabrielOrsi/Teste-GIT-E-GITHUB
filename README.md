@@ -1,2 +1,2 @@
 # Teste GIT E GITHUB
- So o teste para aprender GIT e GITHUB
+Aprendo a usar o GIT e GITHUB, pois procuro conhecer todas as ferramentas mais pedidas por todos
